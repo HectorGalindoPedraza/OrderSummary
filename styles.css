@@ -75,6 +75,7 @@ article{
     display: grid;
     grid-template-rows: 1fr 1fr;
     margin: 0 auto;
+    font-size: 1.3rem;
     font-weight: 700;
     color: var(--Dark-blue);
 
@@ -85,6 +86,7 @@ article{
 }
 .card a{
     color: var(--Brightblue);
+    margin-left: 15px;
 }
 button{
     width: 80%;
@@ -103,6 +105,7 @@ button{
     color: var(--Desaturated-blue);
     font-weight: 700;
     font-size: 1.4rem;
+    cursor: pointer;
 }
 .attribution{
     color: var(--Desaturated-blue);
